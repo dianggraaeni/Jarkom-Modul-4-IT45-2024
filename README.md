@@ -612,7 +612,7 @@ iface eth0 inet static
     gateway 192.239.18.129
 ```
 
-Host Bae_Fauna
+Bae_Fauna
 ```
 # A22 > HoloCouncil
 auto eth0
